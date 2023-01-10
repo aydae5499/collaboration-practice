@@ -1,8 +1,8 @@
-#### 1 Alice was here 
+#### 1 Alice was here
 #### 2
 #### 3 Bob was here
 #### 4
-#### 5
+#### 5 Bob left
 #### 6
 #### 7
 #### 8
