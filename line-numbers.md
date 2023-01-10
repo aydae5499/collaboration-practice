@@ -2,7 +2,7 @@
 #### 2
 #### 3 Bob was here
 #### 4
-#### 5
+#### 5 Bob left
 #### 6
 #### 7 Alice left 
 #### 8
