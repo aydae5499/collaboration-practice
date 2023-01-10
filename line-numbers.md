@@ -4,9 +4,9 @@
 #### 4
 #### 5 Bob left
 #### 6
-#### 7 Alice left 
+#### 7 Alice left
 #### 8
-#### 9
+#### 9 Github is awesome 
 #### 10
 #### 11
 #### 12
